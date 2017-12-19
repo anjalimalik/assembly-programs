@@ -1,2 +1,1 @@
-# cs250-assembly
-ARM assembly code
+# ARM assembly code
